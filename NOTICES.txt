@@ -1,0 +1,150 @@
+Cherry 0.4.2 - Third-Party Notices
+==================================
+
+Cherry is proprietary freeware. It is built on the open-source components
+listed below. Their licences remain in force for those components. Full texts
+are installed in the "licenses" folder next to Cherry.exe and are listed at the
+end of this file.
+
+Application
+-----------
+Cherry 0.4.2
+Copyright (c) 2026 Mohammed Kortam
+Proprietary freeware. See EULA.txt.
+
+Runtime and engine
+------------------
+FFmpeg 8.0.1 (essentials build, gyan.dev)
+Copyright (c) 2000-2025 the FFmpeg developers
+GPL v3 or later. Source and full text: licenses/COPYING.GPLv3.txt
+https://ffmpeg.org/
+
+Qt 6.12 / PySide6
+Copyright (c) The Qt Company Ltd.
+LGPL v3. Full text: licenses/LICENSE.LGPLv3.txt
+https://www.qt.io/
+
+Python 3.13
+Copyright (c) Python Software Foundation
+PSF licence. Full text: licenses/LICENSE.PSF.txt
+https://www.python.org/
+
+yt-dlp 2026.10.21
+Copyright (c) 2006-2025 yt-dlp contributors
+The Unlicense. Full text: licenses/LICENSE.yt-dlp.txt
+https://github.com/yt-dlp/yt-dlp
+
+aria2 1.37.0
+Copyright (c) Tatsuhiro Tsujikawa and contributors
+GPL v2. Full text: licenses/COPYING.aria2.txt and licenses/LICENSE.GPLv2.txt
+Bundled OpenSSL components: licenses/LICENSE.OpenSSL.txt
+https://aria2.github.io/
+
+PyInstaller 6.22.3
+Copyright (c) 2005-2025 PyInstaller contributors
+GPL v2 with the bootloader exception. Full text: licenses/COPYING.PyInstaller.txt
+https://pyinstaller.org/
+
+FastAPI 0.162.1
+Copyright (c) 2015 Sebastian Ramirez
+MIT. Full text: licenses/LICENSE.FastAPI.txt
+https://fastapi.tiangolo.com/
+
+Pydantic 2.14.3 and pydantic-core 2.50.4
+Copyright (c) 2017-present Pydantic Services Inc. and contributors
+MIT. Full texts: licenses/LICENSE.pydantic.txt, licenses/LICENSE.pydantic_core.txt
+https://docs.pydantic.dev/
+
+Uvicorn 0.54.0
+Copyright (c) 2017-present, Encode OSS Ltd.
+BSD-3-Clause. Full text: licenses/LICENSE.uvicorn.txt
+https://www.uvicorn.org/
+
+websockets 17.4
+Copyright (c) 2017-2025 Aymeric Augustin and contributors
+BSD-3-Clause. Full text: licenses/LICENSE.websockets.txt
+https://websockets.readthedocs.io/
+
+h11 0.16.0
+Copyright (c) 2016 Nathaniel J. Smith
+MIT. Full text: licenses/LICENSE.h11.txt
+https://github.com/python-hyper/h11
+
+httptools 0.9.0
+MIT. Full text: licenses/LICENSE.httptools.txt
+https://github.com/MagicStack/httptools
+
+watchfiles
+MIT. Full text: licenses/LICENSE.watchfiles.txt
+https://watchfiles.helpmanual.io/
+
+anyio 4.16.0
+MIT. Full text: licenses/LICENSE.anyio.txt
+https://anyio.readthedocs.io/
+
+OpenTelemetry API 1.45.2
+Apache-2.0. Full text: licenses/LICENSE.opentelemetry-api.txt
+https://opentelemetry.io/
+
+certifi
+MPL-2.0. Full text: licenses/LICENSE.certifi.txt
+https://github.com/certifi/python-certifi
+
+PyYAML 6.0.3
+MIT. Full text: licenses/LICENSE.pyyaml.txt
+https://pyyaml.org/
+
+python-dotenv 1.2.4
+BSD-3-Clause. Full text: licenses/LICENSE.python-dotenv.txt
+https://github.com/theskumar/python-dotenv
+
+idna
+BSD-3-Clause. Full text: licenses/LICENSE.idna.txt
+https://github.com/kjd/idna
+
+annotated-types 0.8.0
+MIT. Full text: licenses/LICENSE.annotated-types.txt
+https://github.com/annotated-types/annotated-types
+
+typing_extensions 4.16.0
+PSF. Full text: licenses/LICENSE.typing-extensions.txt
+https://github.com/python/typing_extensions
+
+click 8.5.1
+BSD-3-Clause. Full text: licenses/LICENSE.click.txt
+https://click.palletsprojects.com/
+
+Pygments 2.21.0
+BSD-2-Clause. Full text: licenses/LICENSE.pygments.txt
+https://pygments.org/
+
+User interface
+--------------
+Lucide icons
+ISC. Full text: licenses/LICENSE.lucide-react.txt
+https://lucide.dev/
+
+Tailwind CSS
+MIT. Full text: licenses/LICENSE.tailwindcss.txt
+https://tailwindcss.com/
+
+React and the Vite build tooling are MIT-licensed and were used to build the
+control-centre bundle that ships inside Cherry.exe; their licence terms are
+not changed by this application.
+
+Built-in Chromium (Qt WebEngine)
+-------------------------------
+The embedded browser engine is built from the Chromium project and is
+distributed under the BSD-style Chromium licence, together with third-party
+components that carry their own notices. The Qt build of WebEngine is
+distributed under the LGPL v3, as noted above.
+
+Mozilla / Firefox
+-----------------
+Firefox is a trademark of the Mozilla Foundation. Cherry is not affiliated
+with or endorsed by Mozilla.
+
+Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi
+----------------------------------------------------
+Those browsers and their logos are trademarks of their respective owners.
+Cherry is not affiliated with or endorsed by those companies.

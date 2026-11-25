@@ -1,0 +1,73 @@
+Cherry - End User License Agreement
+Version 0.4.2
+
+IMPORTANT - READ CAREFULLY BEFORE INSTALLING OR USING CHERRY.
+
+By installing, copying or using Cherry, you agree to the terms of this
+agreement. If you do not agree, do not install or use the software.
+
+1. License grant
+
+Mohammed Kortam ("the Author") grants you a non-exclusive, non-transferable,
+revocable license to install and use Cherry on computers that you own or
+control. Cherry is proprietary freeware: you may use it without paying a fee,
+but the software remains the Author's property.
+
+2. Restrictions
+
+You may not sell, rent, lease, sublicence or redistribute Cherry, or any copy
+of it, without the Author's written permission. You may not remove or alter
+copyright, licence or attribution notices. You may not use Cherry to violate
+the law, infringe anyone's rights, or download material you are not permitted
+to copy. You may not decompile or reverse engineer Cherry except to the extent
+that applicable law expressly allows it despite this restriction.
+
+3. Bundled open-source components
+
+Cherry includes third-party open-source components. Those components remain
+under their own licences, which are included with the installation in the
+"licenses" folder and summarised in NOTICES.txt. Nothing in this agreement
+changes their terms.
+
+4. Data and privacy
+
+Cherry stores its settings, history and downloads on your own computer, in
+your user profile and in the download folder you choose. The installer does
+not contain your personal data and Cherry does not send your browsing history
+or download data to the Author. Media pages you choose to download from are
+contacted by the downloader you control, as any browser would.
+
+5. Updates
+
+The Author may release updates. An update may change these terms; the version
+you install will carry its own copy of the agreement.
+
+6. Disclaimer of warranty
+
+Cherry is provided "as is" and "as available", without warranty of any kind,
+express or implied, including but not limited to the implied warranties of
+merchantability, fitness for a particular purpose and non-infringement.
+
+7. Limitation of liability
+
+To the maximum extent permitted by law, the Author is not liable for any
+indirect, incidental, special, consequential or punitive damages, or for lost
+data, lost downloads, lost profits or lost time, arising out of or related to
+Cherry, even if the Author has been advised of the possibility of such
+damages. The Author's total liability for any claim is limited to the amount
+you paid for Cherry, which is zero.
+
+8. Termination
+
+This licence ends if you breach its terms. On termination you must stop using
+Cherry and delete your copies. Provisions that by their nature should survive
+(including sections 3, 6 and 7) remain in force.
+
+9. General
+
+This agreement is governed by the laws of your country of residence where
+mandatory consumer protections apply. If any part of it is unenforceable, the
+rest remains in effect.
+
+If you have questions, use the Credits tab in Cherry to copy the support
+diagnostics and contact the Author through the Cherry project page.
